@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">QRcode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_app_titlle">About App</string>
+    <string name="about_app_summary">App Info</string>
+
+    <string name="app_verion_title">App Version</string>
+    <string name="app_version_summary">1.0</string>
+
+    <string name="appln_name">App Name</string>
+    <string name="appln_summary">Barcode</string>
+
+    <string name="general_title">General</string>
+    <string name="generat_summary">Manage general settings of App</string>
+
+    <string name="app_policy_title">App Policy</string>
+    <string name="app_policy_summary">Agree all Terms and Conditions</string>
+
+    <string name="app_like_title">Do you like this App</string>
+    <string name="app_like_summary">Like this App</string>
+    <string name="app_like_default">Like</string>
+    <string-array name="app_like_entries">
+        <item>Like</item>
+        <item>DisLike</item>
+    </string-array>
+    <string-array name="app_like_entryvalues">
+        <item>Like</item>
+        <item>DisLike</item>
+    </string-array>
+
+    <string name="policy_key">pkey</string>
+    <string name="like_key">lkey</string>
+    <string name="mode_key">mkey</string>
+
+    <string name="app_mode_title">App Mode</string>
+    <string name="app_mode_summary">Apply Dark Mode</string>
+
+    <string name="app_user_title">User Info</string>
+    <string name="app_user_summary">User Details</string>
+
+    <string name="app_usename">User Name</string>
+    <string name="app_usermail">User G-Mail Account</string>
+    <string name="title_activity_general">General</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_user">User</string>
+    <string name="title_activity_app">App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
